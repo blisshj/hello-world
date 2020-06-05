@@ -8,4 +8,8 @@ function Foo() {
 function Bar()) {
     return;
 }
+
+function FooBar() {
+    return;
+}
 ```
