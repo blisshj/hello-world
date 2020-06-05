@@ -4,4 +4,8 @@
 function Foo() {
     return;
 }
+
+function Bar()) {
+    return;
+}
 ```
