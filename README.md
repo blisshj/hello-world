@@ -13,7 +13,7 @@ function Bar()) {
     return;
 }
 
-function Bar1(string s)) {
+function Bar1(string s, int a)) {
     return;
 }
 ```
