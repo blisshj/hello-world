@@ -12,8 +12,4 @@ function Foo1(int a) {
 function Bar()) {
     return;
 }
-
-function Bar1(string s, int a)) {
-    return;
-}
 ```
