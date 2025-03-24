@@ -9,7 +9,7 @@ function Foo1(int a) {
     return;
 }
 
-function Bar() {
+function Bar()) {
     return;
 }
 ```
