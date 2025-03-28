@@ -6,3 +6,5 @@ def jw_function():
 
 def hj_function():
   print("Hello hjkim from a function")
+  
+
